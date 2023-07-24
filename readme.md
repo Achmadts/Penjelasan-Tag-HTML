@@ -1,6 +1,6 @@
 #Berikut adalah tag-tag pada html beserta fungsinya:
 
-| Nama | Fungsi |
+| Nama Tag | Fungsi Tag |
 |------|--------|
 |<!DOCTYPE>|Mendefinisikan tipe dokumen html untuk tipe HTML 5|
 |`<html>`| Mendefinisikan bagian html|
